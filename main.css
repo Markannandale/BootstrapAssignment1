@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-color: #151515; 
+  font-family: Augustus;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 70px;
+  color: white;
+  top: 50%;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 38px;
+  color: white;
+}
+
+.carousel-caption h2 {
+  text-shadow: 2px 2px 7px black;
+}
+
+p {
+  color: white;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+ul {
+  text-shadow: 2px 2px 5px rgb(32, 32, 32);
+}
+
+.nav-pills .nav-link.active {
+  background-color: rgb(95, 95, 95);
+}
+
+.nav-pills .nav-link:hover {
+  background-color: rgb(145, 145, 145);
+  color: white;
+}
+
+.nav-pills .nav-link:active {
+  background-color: rgb(187, 187, 187);
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.wrapper {
+  background-color: #fff; 
+}
